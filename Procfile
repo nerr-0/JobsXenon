@@ -1,0 +1,1 @@
+worker: python xjbot.py
